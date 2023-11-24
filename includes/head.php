@@ -20,7 +20,7 @@ $currentPage = getPageData($pages);
 
     <div class="container-fluid">
         <header class="row flex-wrap justify-content-between align-items-center p-3 mb-4 border-bottom">
-            <a href="index.html" class="col-1">
+            <a href="index.php" class="col-1">
                 <i class="bi bi-piggy-bank-fill text-primary fs-1"></i>
             </a>
             <nav class="col-11 col-md-7">
